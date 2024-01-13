@@ -12,5 +12,3 @@ describe('useDate', () => {
     expect(result.current.formatFullDateTime(date)).toBe('Jan 10, 2024 6:10 PM');
   });
 });
-
-export {}
